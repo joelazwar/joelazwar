@@ -1,4 +1,4 @@
- <h1 style="text-align:center;font-family:monospace;font-weight:900">HI THERE 😵‍💫😵‍💫😵‍💫</h1>
+ <h1 style="font-family:monospace;font-weight:900" align="center">HI THERE 😵‍💫😵‍💫😵‍💫</h1>
 
 
 * My name is Joel Azwar 😁 I'm 22 years old, and a 3rd year CS Student living in Toronto, Canada 🍁
