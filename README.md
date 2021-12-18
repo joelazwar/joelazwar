@@ -19,6 +19,6 @@
 ## Currently Listening to
 [![Spotify](https://jazwar-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 
-
+## My GitHub Stats
 [![Joel's GitHub stats](https://github-readme-stats.vercel.app/api?username=joelazwar&showicons=true&theme=tokyonight)](https://github.com/joelazwar/github-readme-stats)
 
