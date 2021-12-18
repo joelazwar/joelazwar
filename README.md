@@ -1,17 +1,17 @@
  <h1 align="center" style="font-family:monospace;font-weight:900">HI THERE 😵‍💫😵‍💫😵‍💫</h1>
 
 
-* My name is Joel Azwar 😁 I'm 22 years old, and a 3rd year CS Student living in Toronto, Canada 🍁
+* ### My name is Joel Azwar 😁 I'm 22 years old, and a 3rd year CS Student living in Toronto, Canada 🍁
 
-* Born in Jakarta 🇮🇩, grew up in Hong Kong 🇭🇰, now in Toronto 🇨🇦
+* ### Born in Jakarta 🇮🇩, grew up in Hong Kong 🇭🇰, now in Toronto 🇨🇦
 
-* 3 Hobbies : Exercise 🏋️‍♂️ (Health), Music 🎧 (Personal), Programming 💻 (Career)
+* ### 3 Hobbies : Exercise 🏋️‍♂️ (Health), Music 🎧 (Personal), Programming 💻 (Career)
 
-* Big Pop Culture Geek. I love Comic Books 📕, Video Games 🎮, and Movies 📽️!
+* ### Big Pop Culture Geek. I love Comic Books 📕, Video Games 🎮, and Movies 📽️!
 
-* But most of all.... I love Music 🎵🎶🎸📻🎹🎸🎺🎻
+* ### But most of all.... I love Music 🎵🎶🎸📻🎹🎸🎺🎻
 
-* Listen to mine on [Spotify](https://open.spotify.com/artist/3xljo6K6D0xcncseff9h7a?si=DCA2LXGCSF2h_JPzo9pOyg) | [Apple Music](https://music.apple.com/artist/blujazz/1546143629) :)
+* ### Listen to mine on [Spotify](https://open.spotify.com/artist/3xljo6K6D0xcncseff9h7a?si=DCA2LXGCSF2h_JPzo9pOyg) | [Apple Music](https://music.apple.com/artist/blujazz/1546143629) :)
 
 
 <br>
