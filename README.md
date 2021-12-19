@@ -1,7 +1,8 @@
-<h1 align="center" style="font-family:monospace;font-weight:900">HI THERE 😵‍💫😵‍💫😵‍💫</h1>
+ <h1 align="center" style="font-family:monospace;font-weight:900">HI THERE 😵‍💫😵‍💫😵‍💫</h1>
 
 <div align="center">
 
+```
 My name is Joel Azwar 😁 I'm 22 years old, and a 3rd year CS Student living in Toronto, Canada 🍁
 
 Born in Jakarta 🇮🇩, grew up in Hong Kong 🇭🇰, now in Toronto 🇨🇦
@@ -11,8 +12,15 @@ Born in Jakarta 🇮🇩, grew up in Hong Kong 🇭🇰, now in Toronto 🇨🇦
 Big Pop Culture Geek. I love Comic Books 📕, Video Games 🎮, and Movies 📽️!
 
 But most of all.... I love Music 🎵🎶🎸📻🎹🎸🎺🎻
+``` 
 
-Listen to mine on <a href="https://open.spotify.com/artist/3xljo6K6D0xcncseff9h7a?si=DCA2LXGCSF2h_JPzo9pOyg"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"></a> <a href="https://music.apple.com/artist/blujazz/1546143629"><img src="https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white"></a>
+
+### Listen to mine :)
+<a href="https://open.spotify.com/artist/3xljo6K6D0xcncseff9h7a?si=DCA2LXGCSF2h_JPzo9pOyg"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"></a> <a href="https://music.apple.com/artist/blujazz/1546143629"><img src="https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white"></a>
+
+
+
+
 
 ## Languages and Tools
 
